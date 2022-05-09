@@ -112,7 +112,7 @@ a{
     }
     
     .nav-toggle:hover{
-        transform: rotate(490deg);
+        transform: rotate(480deg);
     }
 
     /* BY DEFAULT HIDE LIMKS */
